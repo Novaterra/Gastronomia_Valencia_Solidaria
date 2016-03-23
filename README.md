@@ -1,7 +1,11 @@
 # Project Name
 NOVATERRA ONG
 
-DISEÑO GRAFICO: Tarjetas de Logo Valencia Gastronomia Solidaria 2016
+DISEÑO GRAFICO: Logo Valencia Gastronomia Solidaria 2016
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/Gastronomia_Valencia_Solidaria/master/gastronomiaVLCsolidaria1.png" width="600"/>
+</p>
 
 ## REALIZADO CON
 
